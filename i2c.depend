@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1646651297 source:/home/jetson/Code_Blocks/i2c/main.c
+	<stdio.h>
+	<unistd.h>
+	<termios.h>
+	<fcntl.h>
+	<signal.h>
+	<string.h>
+	<sys/time.h>
+	<math.h>
+	"I2CWrapper.h"
+	"mpu6050.h"
+	<math.h>
+
+1527253466 /home/jetson/Code_Blocks/i2c/mpu6050.h
+
+1527253466 source:/home/jetson/Code_Blocks/i2c/I2CWrapper.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<linux/input.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<linux/i2c.h>
+	<string.h>
+
+1646647215 source:/home/jetson/Code_Blocks/i2c/mpu6050.c
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	"I2CWrapper.h"
+	"mpu6050.h"
+
+1527253466 /home/jetson/Code_Blocks/i2c/I2CWrapper.h
+
